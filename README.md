@@ -7,8 +7,8 @@
 ![Page 2](https://github.com/user-attachments/assets/43fcc82b-86c3-4f90-ba1b-5191740ec4cd)
 
 ## Business Problem
-* The company has recently observed an unusually high number of employees leaving the organization, leading to growing concern among          senior leadership. Despite offering industry-standard salaries and training programs, attrition has climbed above 50%, affecting critical   departments such as Research & Development and Human Resources.
-* Management is perplexed by the rising turnover and lacks clarity on the underlying causes. To address this, the HR department has           initiated a comprehensive data analysis aimed at uncovering the key factors driving attrition — such as work-life balance, job              satisfaction, commute distance, and departmental dynamics — with the ultimate goal of improving employee retention and organizational       stability.
+* The company has recently observed an unusually high number of employees leaving the organization, leading to growing concern among senior leadership. Despite offering industry-standard salaries and training programs, attrition has climbed above 50%, affecting critical   departments such as Research & Development and Human Resources.
+* Management is perplexed by the rising turnover and lacks clarity on the underlying causes. To address this, the HR department has           initiated a comprehensive data analysis aimed at uncovering the key factors driving attrition — such as work-life balance, job              satisfaction, commute distance, and departmental dynamics — with the ultimate goal of improving employee retention and organizational stability.
 
 ## Business Questions
 1. **Which departments have the highest and lowest attrition rates?**
