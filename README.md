@@ -121,6 +121,12 @@
 * **Low satisfaction levels (~2.0–2.5**) appear across multiple salary hike values, indicating that compensation increases alone don’t    guarantee satisfaction.
 * The fluctuating trend implies that other factors—such as work culture, recognition, or leadership—influence job satisfaction more        strongly than salary changes.
 
+## Conclusion
+
+* This HR analytics project aimed to uncover key factors contributing to high employee attrition within the organization. Through          detailed analysis of various employee attributes—such as department, overtime, distance from home, training time, job satisfaction,      and salary hikes—the dashboard provides actionable insights into workforce behavior and engagement.
+* The findings highlight that attrition is influenced by a combination of factors, not just compensation. Areas such as overtime impact,   work-life balance, and departmental dynamics play a significant role in employee satisfaction and retention.
+* These insights can help HR teams and management develop targeted strategies to improve employee retention, optimize engagement, and      create a more supportive and productive work environment.
+
 
 
 
